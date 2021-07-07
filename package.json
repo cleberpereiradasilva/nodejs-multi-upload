@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-multi-upload",
+  "version": "0.0.1",
+  "description": "A simple nodejs multi files upload api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleberpereiradasilva/nodejs-multi-upload.git"
+  },
+  "keywords": [],
+  "author": "Cleber Silva <cleber.pereira@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cleberpereiradasilva/nodejs-multi-upload/issues"
+  },
+  "homepage": "https://github.com/cleberpereiradasilva/nodejs-multi-upload#readme"
+}
